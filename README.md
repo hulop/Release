@@ -1,4 +1,4 @@
-# HULOP Client Release
+# Human-scale Localization Platform (HULOP) Release
 
 |Date|File|
 |---|---|
